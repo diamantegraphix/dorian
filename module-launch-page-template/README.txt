@@ -1,4 +1,4 @@
-# Package:	Module Launch Page Template
+# Package:  Module Launch Page Template
 # Author:   Diamante Design/BLG
 # Date:     2016-04-26
 # Files:    layout.html, style.css, arrow.png
