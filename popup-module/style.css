@@ -1,0 +1,62 @@
+article {
+	font-size: 20px;
+	line-height:1.2;
+	padding: 0px 20px 20px;
+}
+
+.article-header h2 {
+	margin-bottom: 40px;
+}
+.article-text {
+	padding-left: 20px; 
+	width: calc(100% - 280px);
+	font-size: 
+}
+
+.article-boxes {
+	float: right;
+	padding:0 50px;
+}
+
+.article-boxes .box {
+	width: 180px;
+	height: 120px;
+	margin-bottom: 40px;
+	padding: 5px;
+	border: 1px solid #bbb;
+	border-radius: 5px;
+	line-height:1.2;
+}
+
+.article-boxes .box-label {
+	font-weight: bold;
+}
+
+.article-boxes #box1, .article-boxes #box3 {
+	text-align: center;
+}
+
+.article-boxes #box1:hover {
+	border-color: #000;
+	-webkit-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+	box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+}
+
+.article-boxes #box2 {
+	font-size:18px;
+}
+
+.article-boxes #box1 img {
+	margin-top: 5px;
+	height: 55px;
+}
+
+.article-boxes #box3 img {
+	max-height: 105px;
+	max-width: 170px;
+}
+
+#popup-module .modal-dialog {
+    width: 95%;
+}
