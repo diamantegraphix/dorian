@@ -1,3 +1,13 @@
+.modal-header {
+  padding: 5px 10px 0 0;
+  border: none;
+}
+
+.modal-body {
+  text-align:center;
+  padding: 0 0 10px 0;
+}
+
 article {
 	font-size: 20px;
 	line-height:1.2;
@@ -58,5 +68,5 @@ article {
 }
 
 #popup-module .modal-dialog {
-    width: 95%;
+    width: 800px;
 }
